@@ -32,7 +32,8 @@ O projeto consiste em sortear um numero entre dois valores adicionados pelo usua
 
 ## 🔖 Site
 
-Você pode visualizar a pagina do projeto através <a href="devsorteio.netlify.app" target="_blank">DESSE LINK</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+Você pode visualizar a pagina do projeto através <a href="https://devsorteio.netlify.app/" target="_blank">DESSE LINK</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
 
 ---
 
