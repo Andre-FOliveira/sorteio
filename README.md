@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Note e Celuluar" src="https://github.com/Andre-FOliveira/conversorMoedas/blob/main/src/rd.jpg?raw=true">
+  <img alt="Note e Celuluar" src="https://github.com/Andre-FOliveira/sorteio/blob/main/src/img/tela.png?raw=true">
   
 </p>
 
