@@ -7,6 +7,34 @@ body {
     margin-top: 20px;
 }
 
+.menu-lateral {
+    position: fixed;
+    right: 0;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin-top: 250px;
+}
+
+.menu-lateral ul {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.menu-lateral img {
+    width: 25px;
+    transition: 0.3s ease-in-out;
+    filter: invert(1);
+}
+
+.menu-lateral img:hover {
+    transform: scale(1.2);
+}
+
+
 img {
     width: 40vh;
 }
